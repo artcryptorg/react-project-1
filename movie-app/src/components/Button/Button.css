@@ -4,5 +4,13 @@
     padding: 16px 32px;
     width: 119px;
     height: 56px;
+  
+}
+
+.accent:hover {
+    background: #222096;
+}
+
+.accent {
     background: #7b6ef6;
 }
