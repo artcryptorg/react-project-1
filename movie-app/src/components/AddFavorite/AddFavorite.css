@@ -1,0 +1,19 @@
+.add-favorite {
+    display: flex;
+    gap: 8px;
+}
+.add-favorite {
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 150%;
+    letter-spacing: 0.02em;
+    padding: 0 8px;
+}
+
+.add-favorite_purpl {
+    color: #7b6ef6;
+}
+
+.add-favorite_green {
+    color: #37d8a7;
+}
