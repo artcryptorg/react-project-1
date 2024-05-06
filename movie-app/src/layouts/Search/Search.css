@@ -1,0 +1,9 @@
+.search {
+    max-width: 1248px;
+    margin: 0 auto;
+    padding: 40px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
